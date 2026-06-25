@@ -1,0 +1,32 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip_code,registration_date
+1,James,Smith,james.smith@gmail.com,555-123-4567,123 Main St,New York,NY,10001,2021-03-15
+2,Mary,Johnson,,212.555.6789,456 Park Ave,New York,NY,10022,2020-11-02
+3,John,Williams,jwilliams@yahoo.com,(555) 987-6543,789 Broadway,Los Angeles,California,90001-1234,2021-05-20
+4,Patricia,Brown,pbrown@hotmail.com,5551234567,321 Elm St,Chicago,IL,60601,
+5,Robert,Jones,rjones23@gmail.com,555-987-3456,555 Pine St,Houston,TX,77002,2020-09-12
+6,Jennifer,Miller,jmiller@outlook.com,,898 Cedar Dr,Phoenix,AZ,85001,2021-02-28
+7,Michael,Davis,mdavis@gmail.com,555.432.7654,742 Maple Ave,Philadelphia,PA,19103,2021-01-17
+8,Linda,Garcia,lgarcia@yahoo.com,555 876 2345,953 Oak Ln,San Antonio,Texas,78205,2020-10-05
+9,William,Rodriguez,wrodriguez@hotmail.com,5558889999,159 Washington Blvd,San Diego,CA,92101,2021-06-30
+10,Elizabeth,Wilson,ewilson@gmail.com,(555) 333-2211,753 Lincoln Rd,Dallas,TX,75201,2020-08-22
+11,David,Martinez,dmartinez@yahoo.com,555-111-3333,246 Jefferson Ave,San Jose,CA,95113,2021-04-09
+12,Barbara,Anderson,,555.444.9876,135 Madison St,Austin,TX,,2020-12-27
+13,Richard,Taylor,rtaylor@outlook.com,5552223333,864 Adams Ct,Jacksonville,FL,32202,2021-07-14
+14,Susan,Thomas,sthomas45@gmail.com,,579 Monroe Pl,Fort Worth,TX,76102,2020-07-18
+15,Joseph,Hernandez,jhernandez@yahoo.com,555-777-8888,951 Jackson Dr,Columbus,OH,43215,2021-01-03
+16,Jessica,Moore,jmoore@hotmail.com,555.666.1234,357 Tyler St,Charlotte,North Carolina,28202,
+17,Thomas,Martin,tmartin@gmail.com,(555) 444-5678,159 Polk Ave,San Francisco,CA,94102,2020-10-19
+18,Sarah,Jackson,sjackson@yahoo.com,5557890123,753 Harrison Rd,Indianapolis,IN,46204,2021-03-01
+19,Charles,Thompson,cthompson@outlook.com,555-321-6547,951 Van Buren St,Seattle,Washington,98101,2020-09-05
+20,Karen,White,kwhite88@gmail.com,555.789.4561,357 Fillmore Dr,Denver,CO,80202,2021-05-12
+21,Christopher,Lopez,clopez@yahoo.com,555 456 7890,159 Pierce Ave,Boston,MA,02108,2020-11-30
+22,Nancy,Lee,nlee@hotmail.com,5559876543,753 Hayes Blvd,Portland,Oregon,97201,2021-02-14
+23,Daniel,Gonzalez,dgonzalez@gmail.com,(555) 123-7890,951 Grant St,Las Vegas,NV,89101,2020-08-08
+24,Margaret,Harris,mharris@yahoo.com,555-321-6789,357 Sherman Rd,Detroit,MI,48226,2021-04-25
+25,Matthew,Clark,mclark@outlook.com,555.654.9870,159 Sheridan Dr,Nashville,TN,37201,
+26,Betty,Lewis,betty.lewis@gmail.com,5551597532,753 MacArthur Blvd,Baltimore,Maryland,21202,2020-07-01
+26,Betty,Lewis,blewis23@gmail.com,555 159 7532,753 MacArthur Boulevard,Baltimore,MD,21202,2020-07-01
+27,Steven,Robinson,srobinson@yahoo.com,555-951-7532,951 Hooker St,Louisville,KY,40202,2021-06-17
+28,Dorothy,Walker,dwalker@hotmail.com,5553579514,357 Halsted Ave,Milwaukee,WI,53202,2020-09-30
+29,Anthony,Perez,,555.753.9512,159 Ashland Dr,Albuquerque,NM,87102,2021-01-28
+30,Lisa,Hall,lhall@gmail.com,(555) 951-7530,753 Morgan St,Kansas City,MO,64101,2020-10-15

@@ -1,0 +1,16 @@
+store_id,store_name,address,city,state,zip_code,region,size_sqft,opening_date
+1,City Center,123 Retail Blvd,New York,NY,10001,Northeast,32500,2005-05-20
+2,Mall of Chicago,456 Shopping Ave,Chicago,IL,60611,Midwest,45000,2007-08-15
+3,Los Angeles Plaza,789 Commerce St,Los Angeles,CA,90001,West,55000,2004-03-10
+4,Houston Galleria,321 Main St,Houston,Texas,77002,Southwest,,2008-11-05
+5,Phoenix Outlet,654 Desert Rd,Phoenix,AZ,85001,Southwest,18500,2010-06-30
+6,Philadelphia Center,987 Market St,Philadelphia,PA,19103,Northeast,22000,2009-09-12
+7,San Antonio Mall,741 River Walk,San Antonio,TX,78205,Southwest,35000,2012-04-22
+8,San Diego Plaza,852 Pacific Hwy,San Diego,CA,92101,West,27500,2006-07-18
+9,Dallas Galleria,963 Lone Star Blvd,Dallas,TX,75201-5555,Southwest,42000,
+10,Boston Outlet,159 Freedom Rd,Boston,Massachusetts,02108,Northeast,16500,2014-10-09
+11,Seattle City Center,753 Rainy St,Seattle,WA,98101,West,29000,2011-02-14
+12,Denver Mountain Mall,951 Mile High Dr,Denver,CO,80202,West,31500,2015-08-27
+13,Miami Beach Plaza,357 Ocean Dr,Miami,FL,33139,Southeast,24000,2016-12-03
+14,Minneapolis Galleria,852 Lake St,Minneapolis,MN,55401,Midwest,,2013-05-11
+15,Atlanta Outlet,456 Peachtree St,Atlanta,Georgia,30303,Southeast,20000,2018-09-25

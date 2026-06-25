@@ -1,0 +1,41 @@
+song_id,title,artist_id,album,release_date,duration_seconds,popularity_score
+1,Anti-Hero,1,Midnights,2022-10-21,200,92
+2,Cruel Summer,1,Lover,2019-08-23,178,88
+3,Blinding Lights,2,After Hours,2020-03-20,200,95
+4,Die For You,2,Starboy,2016-11-25,232,90
+5,Dynamite,3,BE,2020-08-21,199,86
+6,Butter,3,Butter (Single),2021-05-21,164,89
+7,Bad Guy,4,When We All Fall Asleep Where Do We Go,2019-03-29,194,91
+8,Happier Than Ever,4,Happier Than Ever,2021-07-30,298,85
+9,Shape of You,5,÷ (Divide),2017-01-06,233,94
+10,Perfect,5,÷ (Divide),2017-03-03,263,88
+11,God's Plan,6,Scorpion,2018-01-19,198,93
+12,Hotline Bling,6,Views,2015-07-31,267,87
+13,Don't Start Now,7,Future Nostalgia,2019-11-01,183,92
+14,Levitating,7,Future Nostalgia,2020-03-27,203,94
+15,Here Comes The Sun,8,Abbey Road,1969-09-26,186,85
+16,Let It Be,8,Let It Be,1970-03-06,243,87
+17,Tití Me Preguntó,9,Un Verano Sin Ti,2022-05-06,244,88
+18,Me Porto Bonito,9,Un Verano Sin Ti,2022-05-06,178,89
+19,Hello,10,25,2015-10-23,295,91
+20,Easy On Me,10,30,2021-10-15,224,90
+21,Thank U Next,11,Thank U Next,2018-11-03,207,89
+22,7 Rings,11,Thank U Next,2019-01-18,178,88
+23,Paint It Black,12,Aftermath,1966-05-13,202,82
+24,Start Me Up,12,Tattoo You,1981-08-14,213,80
+25,HUMBLE.,13,DAMN.,2017-04-14,177,86
+26,All The Stars,13,Black Panther: The Album,2018-01-04,232,84
+27,Poker Face,14,The Fame,2008-09-26,200,83
+28,Shallow,14,A Star Is Born Soundtrack,2018-09-27,217,92
+29,Mr. Brightside,15,Hot Fuss,2004-06-07,224,95
+30,Somebody Told Me,15,Hot Fuss,2004-05-17,197,83
+31,Fearless,1,Fearless,2008-11-11,241,79
+32,Save Your Tears,2,After Hours,2020-03-20,215,91
+33,Fake Love,3,Love Yourself: Tear,2018-05-18,243,82
+34,Ocean Eyes,4,Don't Smile at Me,2016-11-18,200,81
+35,Shivers,5,= (Equals),2021-09-10,207,86
+36,One Dance,6,Views,2016-04-05,173,92
+37,New Rules,7,Dua Lipa,2017-06-02,209,88
+38,Yesterday,8,Help!,1965-08-06,125,86
+39,Dakiti,9,El Último Tour Del Mundo,2020-10-30,205,88
+40,Rolling in the Deep,10,21,2010-11-29,228,90
